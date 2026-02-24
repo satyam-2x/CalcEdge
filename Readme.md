@@ -22,7 +22,7 @@ Designed with a clean interface and smooth user experience.
 - Addition, Subtraction, Multiplication, Division  
 - Clear and delete functionality  
 - Responsive design  
-- Keyboard support (if implemented)  
+- Keyboard support  
 - Real-time display updates  
 
 ---
