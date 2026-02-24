@@ -47,4 +47,4 @@ Results are instantly displayed on the screen with proper validation.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/satyam-2x/calculator-app.git
+   git clone https://github.com/satyam-2x/CalcEdge.git
