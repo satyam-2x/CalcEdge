@@ -7,7 +7,7 @@ Designed with a clean interface and smooth user experience.
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](https://your-live-link.com)
+🔗 [View Live Project](https://satyam-2x.github.io/CalcEdge/)
 
 ---
 
